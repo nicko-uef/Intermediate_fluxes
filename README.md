@@ -2,7 +2,15 @@
 R script for analyses of post-fire ch4 fluxes and related figures. Contains data management, linear mixed-effects models, calculating generalized estimates of the models, and testing the influence of the depth of o-horizon consumed by fire.
 
 Data required for these analyses are available at:
-http://doi.org/
+http://doi.org/10.5281/zenodo.18468709
+
+Open in the following order:
+1. master.R
+2. data_management.R
+3. models.R
+4. mod_generalize.R
+5. OH_loss.R
+6. Figures.R
 
 Glossary of variable names:
 Date: date of measurement as YYYY-MM-DD

@@ -8,9 +8,10 @@ Open in the following order:
 1. master.R
 2. data_management.R
 3. models.R
-4. mod_generalize.R
-5. OH_loss.R
-6. Figures.R
+4. variance_partitioning.R
+5. mod_generalize.R
+6. OH_loss.R
+7. Figures.R
 
 Glossary of variable names:
 Date: date of measurement as YYYY-MM-DD
